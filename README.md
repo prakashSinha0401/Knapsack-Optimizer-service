@@ -19,13 +19,13 @@ The in-memory H2 databse has three cloumns namely KOS_TASK(unique taskId), KOS_S
 
 Tech stack, database and other tools:
 
-Java 8
-Springboot
-Rest Api
-Maven
-Spring data Jpa
-Junit Test
-H2 database
+Java 8,
+Springboot,
+Rest Api,
+Maven,
+Spring data Jpa,
+Junit Test,
+H2 database,
 Dockerfile
 
 
